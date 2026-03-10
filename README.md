@@ -37,8 +37,8 @@ Save the trained model, visualize predictions, and integrate it into an applicat
 
 ## PROGRAM
 
-### Name:AISHWARIYA S
-### Register Number:212224240005
+### Name:SANJITH R
+### Register Number:212223230191
 ```python
 
 class CNNClassifier(nn.Module):
